@@ -19,9 +19,8 @@ A **Body Mass Index (BMI)** Calculator built with **Flutter**, providing a sleek
 
 | Feature        | Screenshot |
 |----------------|------------|
-| **Main Screen** | *(Add a screenshot here)* |
-| **BMI Results** | *(Add a screenshot here)* |
-| **Gender Selection** | *(Add a screenshot here)* |
+| **Main Screen** | *(![Capture](https://github.com/user-attachments/assets/f1bfa948-b229-4f28-8ce7-3956794fdf2b))* |
+| **BMI Results** | *(![Capture1](https://github.com/user-attachments/assets/6ed403c4-823b-4d43-b48b-bf459dca7feb))* |
 
 ---
 
