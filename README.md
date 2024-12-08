@@ -17,10 +17,10 @@ A **Body Mass Index (BMI)** Calculator built with **Flutter**, providing a sleek
 
 ## 📸 Screenshots
 
-| Feature        | Screenshot |
-|----------------|------------|
-| **Main Screen** | *(![Capture](https://github.com/user-attachments/assets/f1bfa948-b229-4f28-8ce7-3956794fdf2b))* |
-| **BMI Results** | *(![Capture1](https://github.com/user-attachments/assets/6ed403c4-823b-4d43-b48b-bf459dca7feb))* |
+|                    | **Main Screen**                                                                                     | **BMI Results**                                                                                     |
+|--------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **Screenshot**     | <img src="https://github.com/user-attachments/assets/f1bfa948-b229-4f28-8ce7-3956794fdf2b" width="500" height="650"> | <img src="https://github.com/user-attachments/assets/6ed403c4-823b-4d43-b48b-bf459dca7feb" width="500" height="650">
+
 
 ---
 
